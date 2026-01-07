@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Thiago 👋
 
-<!--
-**thiagocarvalhodev/thiagocarvalhodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Flutter Engineer with 5+ years building mobile & web apps.
 
-Here are some ideas to get you started:
+## What I've built
+- 🚀 Led ArDrive's upload system rewrite — removed 2GB limit, now handles unlimited file sizes
+- 📱 First Flutter app at Hospital Albert Einstein (Brazil's top hospital)
+- 🔧 Authored ardrive_ui, ardrive_io, ardrive_http — reusable Flutter packages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+`Flutter` `Dart` `TypeScript` `Node.js` `Firebase` `Arweave`
+
+## Currently
+Building high-traffic mobile apps at Kobe Apps (Americanas, Fast Shop)
+
+## Let's connect
+[LinkedIn](https://linkedin.com/in/thiagocarvalhodev) • [Email](mailto:thiagocarvalho.dev@gmail.com)
